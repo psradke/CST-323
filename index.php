@@ -10,7 +10,8 @@
     <noframes>
     <body>
     <p>This page uses frames. The current browser you are using does not support frames.</p>
-    <?php
+    Hleooosd
+	    <?php
     echo "Welcome to the home page."
 	?>
     </body>
