@@ -7,7 +7,6 @@
 <frameset>
     <frame>
     <frame>
-    <noframes>
     <body>
     <p>This page uses frames. The current browser you are using does not support frames.</p>
     Hleooosd
@@ -15,6 +14,5 @@
     echo "Welcome to the home page."
 	?>
     </body>
-    </noframes>
 </frameset>
 </html>
